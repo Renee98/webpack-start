@@ -1,0 +1,11 @@
+.bigWord {
+    color: red;
+    font-size: larger
+}
+
+.img img{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+/*# sourceMappingURL=main.css.map*/

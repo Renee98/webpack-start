@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/css/index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;;AAEA;AACA;AACA;AACA,C","file":"main.css","sourcesContent":[".bigWord {\n    color: red;\n    font-size: larger\n}\n\n.img img{\n    max-width: 50px;\n    max-height: 50px;\n}"],"sourceRoot":""}
