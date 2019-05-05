@@ -1,6 +1,14 @@
 # webpack-start
 学习webpack打包
 
+# 运行我的简单案例
+- git clone
+- 找到项目目录，首先先 npm i  添加依赖
+- npm start (开发环境)
+- npm build (生产环境)
+
+
+# 自己新建一个项目
 ## 起步
 - 创建新webpack项目目录： `mkdir webpack-demo`
 - 进入该目录： `cd webpack-demo`
